@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "user-demo-breathewell",
+      "name": "Aarav Sharma",
+      "email": "demo@breathewell.in",
+      "salt": "a0e30b7dafab34fe8a5c9b5e466b29aa",
+      "passwordHash": "17189c27de983c1513cf65ba7757d475b177613686d8ccb08b8219a2aa21d82a0351643b283c2d7e19612bb27d2fa1d4d22f9776da1feb3a1aa1f3893e954799",
+      "isDemo": true,
+      "favorites": [
+        "bengaluru",
+        "new-delhi",
+        "mumbai"
+      ],
+      "searchHistory": [
+        {
+          "cityId": "bengaluru",
+          "cityName": "Bengaluru",
+          "state": "Karnataka",
+          "aqi": 98,
+          "timestamp": "2026-11-22T16:18:27.934Z"
+        },
+        {
+          "cityId": "new-delhi",
+          "cityName": "New Delhi",
+          "state": "Delhi NCR",
+          "aqi": 233,
+          "timestamp": "2026-11-22T15:52:43.700Z"
+        },
+        {
+          "cityId": "mumbai",
+          "cityName": "Mumbai",
+          "state": "Maharashtra",
+          "aqi": 188,
+          "timestamp": "2026-11-22T15:51:25.678Z"
+        }
+      ],
+      "preferences": {
+        "thresholdAqi": 200,
+        "emailAlerts": true,
+        "browserAlerts": true,
+        "sensitiveGroup": "general"
+      },
+      "createdAt": "2026-11-22T15:51:25.522Z"
+    }
+  ]
+}

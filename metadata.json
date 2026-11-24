@@ -1,0 +1,6 @@
+{
+  "name": "BreatheWell – Urban Air Quality Assistance",
+  "description": "Understand the air around you with real-time air quality insights, interactive city pollution maps, analytics, and personalized AI health guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
